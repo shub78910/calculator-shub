@@ -1,5 +1,5 @@
 .input{
-    width: 33%;
+    width: 43%;
     border: 2px white solid;
     height: 7vh;
     border-radius: 1rem;
@@ -18,7 +18,7 @@
 
 .output{
     margin: auto;
-    width: 15%;
+    width: 23%;
     color: white;
     background-color: black;
     border: 2px white solid;
