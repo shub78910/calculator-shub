@@ -1,0 +1,53 @@
+.input{
+    width: 33%;
+    border: 2px white solid;
+    height: 7vh;
+    border-radius: 1rem;
+    padding: 0.5rem 1rem;
+    font-size: larger;
+    color: white;
+    background-color: black;
+    margin: auto;
+    display: block;
+
+}
+
+.body{
+    background-color: black;
+}
+
+.output{
+    margin: auto;
+    width: 15%;
+    color: white;
+    background-color: black;
+    border: 2px white solid;
+    height: 3vh;
+    border-radius: 1rem;
+    padding: 0.5rem 1rem;
+    font-size: larger;
+    margin: auto;
+    text-align: center;
+    display: block;
+
+}
+
+
+table{
+    margin: auto;
+    padding-top: 2rem;
+    
+}
+
+.button{
+    padding:0.5rem 1rem;
+    font-size: large;
+    color: white;
+    background-color: black;
+    border-radius: 0.5rem;
+    margin-left: 0.4rem;
+    margin-right: 0.4rem;
+    border: solid 1px white;
+    
+}
+
